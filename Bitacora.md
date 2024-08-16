@@ -10,6 +10,7 @@
 #### Instrumental Track: A full instrumental track was added to build a more ominous atmosphere. This track's frequency and timing were adjusted to blend seamlessly with the rest of the audio.
 #### Percussion and Rhythms: Additional percussion and rhythm tracks were incorporated to generate tension and maintain an unsettling tone throughout the trailer.
 #### Zombie Scream: A modified zombie scream was introduced at the start of the trailer, where the logos appear, to set a chilling tone from the beginning. The frequency of this scream was altered to make it sound more terrifying.
+#### Resident Evil 2 Remake Inspiration: The project drew inspiration from the Resident Evil 2 Remake trailer, particularly in its use of atmospheric audio elements. Radio fragments from the Resident Evil 2 trailer were incorporated to create a tense environment, and the final sequence of the Resident Evil 2 trailer was used to deliver a dramatic shift, completely altering the original trailer's tone.
 #### Preservation of Sound Effects and Dialogues: Select fragments of the original audio were preserved to retain key sound effects and dialogues, ensuring the trailer remained narratively coherent.
 #### Volume Adjustments: The volumes of all tracks were carefully balanced to ensure that no element overpowered the others at inappropriate moments.
 ### 3. Merging Audio and Video
