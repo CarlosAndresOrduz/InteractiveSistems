@@ -1,4 +1,6 @@
 # Dead Rising Remastered Trailer Transformation
+##Student: Carlos Orduz
+##Trailer: https://youtu.be/FIAiUWhxmrs?si=sA9xNiroZpzb9Zth
 ## Introduction
 ### This project focuses on transforming the trailer for Dead Rising Remastered from a comedic and action-oriented tone to a horror-themed experience. The trailer was edited using the audio editing software Audacity in accordance with the guidelines provided by the Interaction Systems course.
 
