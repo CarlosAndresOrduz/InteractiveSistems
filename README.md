@@ -2,26 +2,31 @@
 ## Student: Carlos Orduz
 ## Trailer: https://youtu.be/FIAiUWhxmrs?si=sA9xNiroZpzb9Zth
 ## Introduction
-### This project focuses on transforming the trailer for Dead Rising Remastered from a comedic and action-oriented tone to a horror-themed experience. The trailer was edited using the audio editing software Audacity in accordance with the guidelines provided by the Interaction Systems course.
-
+### This project involves transforming the Dead Rising Remastered trailer from a comedic and action tone to a horror theme. The edits were done using Audacity, following the Interaction Systems course guidelines.
 ## Process Description
 ### 1. Original Audio Extraction
-#### The original audio from the Dead Rising Remastered trailer was extracted using audio extraction tools. This allowed for the isolation and manipulation of the sound elements to create a different atmosphere.
+#### The original audio was extracted to isolate and modify specific sound elements.
 
 ### 2. Creating a Horror Atmosphere
-#### Instrumental Track: A full instrumental track was added to build a more ominous atmosphere. This track's frequency and timing were adjusted to blend seamlessly with the rest of the audio.
-#### Percussion and Rhythms: Additional percussion and rhythm tracks were incorporated to generate tension and maintain an unsettling tone throughout the trailer.
-#### Zombie Scream: A modified zombie scream was introduced at the start of the trailer, where the logos appear, to set a chilling tone from the beginning. The frequency of this scream was altered to make it sound more terrifying.
-#### Resident Evil 2 Remake Inspiration: The project drew inspiration from the Resident Evil 2 Remake trailer, particularly in its use of atmospheric audio elements. Radio fragments from the Resident Evil 2 trailer were incorporated to create a tense environment, and the final sequence of the Resident Evil 2 trailer was used to deliver a dramatic shift, completely altering the original trailer's tone.
-#### Preservation of Sound Effects and Dialogues: Select fragments of the original audio were preserved to retain key sound effects and dialogues, ensuring the trailer remained narratively coherent.
-#### Volume Adjustments: The volumes of all tracks were carefully balanced to ensure that no element overpowered the others at inappropriate moments.
-### 3. Merging Audio and Video
-#### Using video editing software, the original trailer audio was replaced with the newly edited audio. The video itself remained unaltered to comply with project restrictions.
+### Sound Effects: 
+#### Added typing, helicopter, hospital machine beep, camera click, and various zombie sounds to create a tense and eerie atmosphere.
+#### Modified voices, including a worried and angry male voice, villain’s laugh, and a creepy clown laugh, to enhance the horror theme.
+#### Incorporated references to other media, like a distorted “Welcome” from Resident Evil 4 and a modified “Get out of my swamp” from Shrek to add depth to the audio.
+#### Gunshots and explosions were included to balance action and horror elements.
+### Music and Rhythm Adjustments:
 
-### 4. Final Export
-#### The edited trailer was exported in video format, ensuring that the final product maintained the original trailer's duration while fully transforming the audio to reflect the desired horror theme.
+#### Removed the original percussion as it disrupted the flow. Added a new instrumental track with adjusted frequency and tempo to fit the horror theme.
+#### Background zombie sounds were slowed down and deepened to create an unsettling atmosphere.
+### 3. Voiceover and Audio Balancing
+#### Radio Effect: A custom voiceover was recorded and modified to sound like a static-filled radio transmission, providing context and setting up the horror scenario.
+#### Sound Balancing: All audio tracks were balanced to avoid any element overshadowing others. Effects were applied gradually to ensure smooth transitions.
+### 4. Merging Audio and Video
+#### The original trailer’s audio was replaced with the new horror-themed track. The video remained unchanged.
+
+### 5. Final Export
+#### The edited trailer was exported, maintaining the original duration but with a completely transformed audio experience.
 
 ## Repository Contents
-### Edited Video: The final trailer with the horror-themed audio.
-### Audacity Project File (.AUP3): The Audacity project file used for editing the audio.
-### README.md: This documentation file.
+### Edited Video: The final trailer with new horror audio.
+### Audacity Project File (.AUP3): Contains all edits.
+### README.md: Documentation of the process.
